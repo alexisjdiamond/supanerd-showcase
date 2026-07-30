@@ -18,7 +18,7 @@ Effective studying is bottlenecked by *making good practice materials* — writi
 ## What it does
 
 - **Ingest anything** — camera capture, drag-and-drop upload (images/PDF/DOCX), or Google Drive import; Claude Vision extracts and structures the content, then flags likely OCR/content issues *before* generating a test.
-- **9 question types** — multiple choice, fill-in-blank, matching, ordering, select-all, true/false, short answer, cloze deletion, diagram labeling, and spoken recall.
+- **10 question types** — multiple choice, fill-in-blank, matching, ordering, select-all, true/false, short answer, cloze deletion, diagram labeling, and spoken recall.
 - **Learns with you** — adaptive difficulty plus **FSRS spaced repetition** scheduling reviews at optimal intervals; interleaved practice across topics.
 - **AI teaching assistants** — configurable "proctor" personalities give real-time, context-aware feedback and explain wrong answers.
 - **Study guides & PDF export** — generate printable guides and tests with answer keys.
