@@ -1,4 +1,4 @@
-# Study Wizard
+# SupaNerd
 
 **An AI study platform that turns any learning material — a photo of handwritten notes, a textbook PDF, a lecture doc — into interactive, personalized practice tests and study guides.**
 
@@ -13,7 +13,7 @@ Cross-platform (web + native iOS/Android), production-grade, and built solo end-
 
 ## The problem
 
-Effective studying is bottlenecked by *making good practice materials* — writing questions, spacing reviews, tracking what you got wrong. Study Wizard removes that bottleneck: point it at whatever you're studying and it generates the assessments, schedules the reviews, and adapts to your performance.
+Effective studying is bottlenecked by *making good practice materials* — writing questions, spacing reviews, tracking what you got wrong. SupaNerd removes that bottleneck: point it at whatever you're studying and it generates the assessments, schedules the reviews, and adapts to your performance.
 
 ## What it does
 
